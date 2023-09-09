@@ -1,0 +1,24 @@
+body{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+#box1{
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size:22px;
+    background: greenyellow;
+    padding: 5px;
+
+}
+#box2{
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size:22px;
+    background: blueviolet;
+    padding: 5px;
+}
+/* margin is the space outside the border
+padding is the space between the content and the border */

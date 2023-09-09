@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    font-family: "Playfair Display";
+}
+p{
+    color: chartreuse;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-style: italic;
+    font-weight: bold;
+    text-transform:initial;
+    font-size: 18px;
+}
+/* font.google.com= all fonts style */

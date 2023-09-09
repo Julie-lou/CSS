@@ -1,0 +1,17 @@
+
+body{
+    background-color: black;
+}
+h1{
+    color: bisque;
+}
+p{
+    background-color: white; color: blanchedalmond;
+}
+.odd{
+    color: red;
+}
+/* to target an element by a class we type .(class name) */
+.even{
+    color: blue;
+}
